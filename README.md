@@ -20,3 +20,4 @@
 * [Happy Meter](http://orgcurrent.github.io/Android/)
 * [android-arsenal.com](https://android-arsenal.com/free)
 * [Android_Free_Code](http://www.java2s.com/Open-Source/Android_Free_Code/Development/calendar/index.htm)
+* [awesome-android](https://github.com/JStumpp/awesome-android)
