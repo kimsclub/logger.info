@@ -23,3 +23,4 @@
 * [awesome-android](https://github.com/JStumpp/awesome-android)
 * [SlidingTutorial-Android](https://github.com/Cleveroad/SlidingTutorial-Android)
 * [markdown-stackedit.io](https://stackedit.io/editor)
+* [cmder](https://github.com/cmderdev/cmder)
