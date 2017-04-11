@@ -5,6 +5,12 @@
 ## 프로젝트 관리
 
 ## 참고문서 관리
+### 가이드 문서
+* [git-commands](https://github.com/bpassos/git-commands)
+* [git](https://rogerdudler.github.io/git-guide/index.ko.html)
+* [git](http://zoolu.co.kr/blogs/2015/12/28/git-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%A0%95%EB%A6%AC)
+* [Markdown](http://sergeswin.com/1013)
+* [Markdown](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 ## 샘플
 
@@ -24,3 +30,4 @@
 * [SlidingTutorial-Android](https://github.com/Cleveroad/SlidingTutorial-Android)
 * [markdown-stackedit.io](https://stackedit.io/editor)
 * [cmder](https://github.com/cmderdev/cmder)
+* [codecademy](https://www.codecademy.com/learn/all)
